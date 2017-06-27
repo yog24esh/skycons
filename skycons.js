@@ -1,3 +1,4 @@
+var Skycons;
 (function(global) {
   "use strict";
 
